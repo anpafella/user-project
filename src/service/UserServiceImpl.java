@@ -20,7 +20,7 @@ public class UserServiceImpl implements UserService{
 	public User update(User user, Integer id) {
 		
 		
-//		for(int i=0; i<userTest.userBD.size(); i++) { //usar cuando interesa el indice i
+//		for(int i=0; i<userTest.userBD.size(); i++) { //usar cuando interesa el indice indice
 //			
 //		}
 		
